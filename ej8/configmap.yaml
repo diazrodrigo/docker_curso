@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: telegrambot-configmap
+  labels:
+    app: telegrambot
+data:
+  TELEGRAM_TOKEN: A_COMPLETAR
+
+  
+
